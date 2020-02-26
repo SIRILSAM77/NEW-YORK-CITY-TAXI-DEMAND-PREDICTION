@@ -21,6 +21,7 @@ Data can be downloaded from here:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml. Here, we have used Jan- 2015 and Jan- 2016 data.
 
 Result:
+
 I have reduced Test Mape value to 8.6% using Random forest Regressor and XGBOOST Regressor
 Getting Started
 Start by downloading the project and run "Taxi-Demand-Prediction-NYC.ipynb" file in ipython-notebook.
